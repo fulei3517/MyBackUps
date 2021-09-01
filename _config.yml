@@ -103,6 +103,6 @@ theme: hexo-theme-matery
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  	repo: https://github.com/fulei3517/fulei3517.github.io.git
-  	branch: master
+  repo: https://github.com/fulei3517/fulei3517.github.io.git
+  branch: master
   	
